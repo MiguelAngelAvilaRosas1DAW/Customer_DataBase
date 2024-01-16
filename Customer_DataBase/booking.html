@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Enlace CSS-->
+    <link rel="stylesheet" href="./CSS/booking.css">
+
+    <title>Client's booking</title>
+</head>
+<body>
+    <div id="container">
+        <table>
+            <caption>Booking</caption>
+            <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Date</th>
+                <th scope="col">Price</th>
+                <th scope="col">Due Date</th>
+                <th scope="col">Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td data-label="Name">Gustabo Frinch</td>
+                <td data-label="Date">01/01/2024</td>
+                <td data-label="Price">$60</td>
+                <td data-label="Due Date">01/01/2024 - 01/02/2024</td>
+                <td><button class="btn warning">Edit</button>
+                    <button class="btn danger">Delete</button></td>
+            </tr>
+            <tr>
+                <td scope="row" data-label="Name">Francis Parlis</td>
+                <td data-label="Date">14/02/2024</td>
+                <td data-label="Price">$92</td>
+                <td data-label="Due Date">14/02/2024 - 14/03/2024</td>
+                <td><button class="btn warning">Edit</button>
+                    <button class="btn danger">Delete</button></td>
+            </tr>
+            <tr>
+                <td scope="row" data-label="Name">Romero Bastion</td>
+                <td data-label="Date">12/04/2024</td>
+                <td data-label="Price">$32</td>
+                <td data-label="Due Date">12/04/2024 - 12/05/2024</td>
+                <td><button class="btn warning">Edit</button>
+                    <button class="btn danger">Delete</button></td>
+            </tr>
+            <tr>
+                <td scope="row" data-label="Acount">Peter Simpson</td>
+                <td data-label="Date">29/05/2024</td>
+                <td data-label="Price">$78</td>
+                <td data-label="Due Date">29/05/2024 - 29/06/2024</td>
+                <td><button class="btn warning">Edit</button>
+                    <button class="btn danger">Delete</button></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <button class="btn success" id="add">Add to booking</button></td>
+
+    </div>
+</body>
+</html>
