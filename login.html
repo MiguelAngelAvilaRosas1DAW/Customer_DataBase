@@ -1,0 +1,45 @@
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Design by foolishdeveloper.com -->
+    <title>Login</title>
+ 
+    <!--Link favicon-->
+    <link rel="shortcut icon" href="./Img/favicon.png" type="image/x-icon">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+
+    <!-- Concepto del LOGIN basado en: https://codepen.io/fghty/pen/PojKNEG -->
+
+    <!--Link CSS-->
+    <link rel="stylesheet" href="./CSS/style.css">
+
+</head>
+<body>
+    <form id="fromLogin" action="" method="post" onsubmit="return validacion()">
+        <h3>Welcome</h3>
+
+        <div>
+            <label for="usuario" class="form-label">Usuario:<span> *</span> </label>
+            <input onchange="resetear('usuario')" type="text" class="form-control" id="usuario" name="usuario" aria-describedby="usuarioHelp">
+            <div id="usuarioHelp" class="form-text">The user must have at least<br>8 characters, and a max of 12 characters.</div>
+        </div>
+
+          <div class="mb-3">
+            <label for="password" class="form-label">Password:<span class=""> *</span> </label>
+            <input onchange="resetear('pass')" type="password" class="form-control" id="pass" name="pass" aria-describedby="passHelp">
+            <div id="passHelp" class="form-text ">The password must have a capital letter, Lower-case, special characters, be between 8-15 and at least one digit.</div>
+          </div>
+
+        <button id="buttonLogin">Get In</button>
+    </form>
+    <script src="./JS/JS_Login.js"></script>
+</body>
+</html>
+<!-- partial -->
+  
+</body>
+</html>
