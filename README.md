@@ -54,18 +54,17 @@ If you want to change or delete a customer, a message will pop up and ask you if
   <li>Terms: Must accept the terms and conditions with a check.</li>
 </ul>
 
-<h3>Authors</h3>
+<h3>Modificación</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
-<p>In this section, there are cards for the main creators of th game, like the main director <a href="https://es.wikipedia.org/wiki/Hideki_Konno" target="_blank">Hideki Konno</a>, the art designer
-<a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" target="_blank">Kazumi Totaka</a> and the main music composer <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" target="_blank">Tadashi Sugiyama</a></p>
+<p>This page is just like the insertion page, but to change the info of a booking.</p>
 
 <h2 id="style">Page Style</h2>
 
 <h3>Color Palette</h3>
-<p>The game itself is pretty dark, so I decided to use a dark background with white text, along with spooky fonds to make it look scary.</p>
+<p>I choose a colorful and modern color palette, something futuristic and "cool" in some way.</p>
 
 <h3>Typography</h3>
-<p><a href="https://www.fontspace.com/category/spooky" target="_blank">Here is the link where I found the two font types</a></p>
+<p>Here is the link where I found the two font types:</p>
 
 <h3>Images</h3>
 <p>All the pictures come from the <a href="https://www.mariowiki.com/Luigi%27s_Mansion" target="_blank">Super Mario Wiki</a></p>
