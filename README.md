@@ -21,9 +21,9 @@
 <p>The are four pages:</p>
 <ul>
   <li>Login</li>
-  <li>Listado</li>
-  <li>Insercicon</li>
-  <li>Modificación</li>
+  <li>List</li>
+  <li>Insert</li>
+  <li>Edit</li>
 </ul>
 
 <h3>Login</h3>
@@ -35,13 +35,13 @@ There are rules for each input:</p>
   <li>Password: The password must have a capital letter, Lower-case, special characters, be between 8-15 and at least one digit.</li>
 </ul>
 
-<h3>Listado</h3>
-<img src="./Readme-img/Readme-Listado.png" alt="Image of the 'Listado' page" style="width:50%">
+<h3>List</h3>
+<img src="./Readme-img/Readme-Listado.png" alt="Image of the 'List' page" style="width:50%">
 <p>In this page, you can see all the bookings of the restaurant in real time, giving you the choice of adding, changing, or deleting a booking.<br>
 If you want to change or delete a customer, a message will pop up and ask you if you are sure of what you want to do.</p>
 
-<h3>Inserción</h3>
-<img src="./Readme-img/Readme-Insercion.png" alt="Image of the 'Inserción' page" style="width:50%">
+<h3>Insert</h3>
+<img src="./Readme-img/Readme-Insercion.png" alt="Image of the 'Insert' page" style="width:50%">
 <p>This section allows a worker to add a new booking to the list of bookings, and it has the next inputs:</p>
 <ul>
   <li>Name: Just fill with your name.</li>
@@ -54,8 +54,8 @@ If you want to change or delete a customer, a message will pop up and ask you if
   <li>Terms: Must accept the terms and conditions with a check.</li>
 </ul>
 
-<h3>Modificación</h3>
-<img src="./Readme-img/Readme-Modificacion.png" alt="Image of the 'Modificación' page" style="width:50%">
+<h3>Edit</h3>
+<img src="./Readme-img/Readme-Modificacion.png" alt="Image of the 'Edit' page" style="width:50%">
 <p>This page is just like the insertion page, but to change the info of a booking.</p>
 
 <h2 id="style">Page Style</h2>
