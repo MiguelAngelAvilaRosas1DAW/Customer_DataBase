@@ -28,7 +28,12 @@
 
 <h3>History</h3>
 <img src="./Readme-img/Readme-History.png" alt="Image of the 'History' section" style="width:50%">
-<p>It shows a little summary of the main plot of the game, along with the reveal trailer that was shown in the E3 (a game convention).</p>
+<p>This login page asks for your name and password as a worker in the restaurant, to see if you can have access.<br>
+There are rules for each input:</p>
+<ul>
+  <li>Name: The user must have at least 8 characters, and a max of 12 characters.</li>
+  <li>Password: The password must have a capital letter, Lower-case, special characters, be between 8-15 and at least one digit.</li>
+</ul>
 
 <h3>Bosses</h3>
 <img src="./Readme-img/Readme-Bosses.png" alt="Image of the 'Bosses' section" style="width:50%">
