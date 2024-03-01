@@ -26,7 +26,7 @@
   <li>Modificación</li>
 </ul>
 
-<h3>History</h3>
+<h3>Login</h3>
 <img src="./Readme-img/Readme-History.png" alt="Image of the 'History' section" style="width:50%">
 <p>This login page asks for your name and password as a worker in the restaurant, to see if you can have access.<br>
 There are rules for each input:</p>
@@ -35,27 +35,29 @@ There are rules for each input:</p>
   <li>Password: The password must have a capital letter, Lower-case, special characters, be between 8-15 and at least one digit.</li>
 </ul>
 
-<h3>Bosses</h3>
+<h3>Listado</h3>
 <img src="./Readme-img/Readme-Bosses.png" alt="Image of the 'Bosses' section" style="width:50%">
-<p>Is divided in 4 colums, in each one shows a description of the main boss of the area and how to defeat it, along with an image of the boss itself.</p>
+<p>In this page, you can see all the bookings of the restaurant in real time, giving you the choice of adding, changing, or deleting a booking.<br>
+If you want to change or delete a customer, a message will pop up and ask you if you are sure of what you want to do.</p>
 
-<h3>Mansions</h3>
+<h3>Inserción</h3>
 <img src="./Readme-img/Readme-Mansions.png" alt="Image of the 'Mansions' section" style="width:50%">
-<p>In this section you can have a look at all the possible mansions that you can get in the game, that depends on how much money you have at he end.</p>
+<p>This section allows a worker to add a new booking to the list of bookings, and it has the next inputs:</p>
+<ul>
+  <li>Name: Just fill with your name.</li>
+  <li>1º Last Name: Must include 5 to 12 letters.</li>
+  <li>Phone Number: Must include at least 9 numbers.</li>
+  <li>Price: Must have at least two numbers, the price of the booking.</li>
+  <li>Province: Must select a province, that dosen't include the default option.</li>
+  <li>Email Address: Please enter a valid email address.</li>
+  <li>Special Event: Select the booking option that the customer is interested in.</li>
+  <li>Terms: Must accept the terms and conditions with a check.</li>
+</ul>
 
 <h3>Authors</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
 <p>In this section, there are cards for the main creators of th game, like the main director <a href="https://es.wikipedia.org/wiki/Hideki_Konno" target="_blank">Hideki Konno</a>, the art designer
 <a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" target="_blank">Kazumi Totaka</a> and the main music composer <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" target="_blank">Tadashi Sugiyama</a></p>
-
-<h3>Ghost Gallery</h3>
-<img src="./Readme-img/Readme-Gallery.png" alt="Image of the 'Ghost Gallery' section" style="width:50%">
-<p>In Luigi's mansion you can capture an entire ghost family, and once you do it, you turn them into pictures, so I decided to make a section with all
-the ghost pictures.</p>
-
-<h3>Mansion Contest</h3>
-<img src="./Readme-img/Readme-Mansion_Contest.png" alt="Image of the 'Mansion Contest' section" style="width:50%">
-<p>We are making a contest to win a real Mansion! In this section you'll have all the info you need to know to participate</p>
 
 <h2 id="style">Page Style</h2>
 
