@@ -10,7 +10,7 @@
 
 <h2 id="introduction">Introduction</h2>
 <p>Work done by: Miguel Ángel Ávila Rosas</p>
-<p>Web project bootstrap for the 1st Markup Languages evaluation</p>
+<p>Web project bootstrap for the 2st Markup Languages evaluation</p>
 <p>March 2024</p>
 <p>CC-BY License</p>
 
@@ -66,18 +66,10 @@ If you want to change or delete a customer, a message will pop up and ask you if
 <h3>Typography</h3>
 <p>Here is the link where I found the two font types:</p>
 
-<h3>Images</h3>
-<p>All the pictures come from the <a href="https://www.mariowiki.com/Luigi%27s_Mansion" target="_blank">Super Mario Wiki</a></p>
-
-<h3>Videos</h3>
-<p><a href="https://www.youtube.com/watch?v=Qp4WwE_6nUc" target="_blank">Link to the trailer</a></p>
-
-<h2 id="snippets">Code Snippets</h2>
-<p>I have used the following:</p>
+<h2 id="snippets">Templates</h2>
+<p>Here are all the templates I used for all the pages:</p>
 <ul>
-  <li><a href="https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works" target="_blank">TopNav</a></li>
-  <li><a href="https://getbootstrap.com/docs/5.3/migration/#accordion" target="_blank">Accordion</a></li>
-  <li><a href="https://getbootstrap.com/docs/5.3/components/card/#about" target="_blank">Authors section cards</a></li>
-  <li><a href="https://mdbootstrap.com/docs/standard/extended/gallery/" target="_blank">Gallery</a></li>
-  <li><a href="https://getbootstrap.com/docs/4.3/components/forms/" target="_blank">Contact Form</a></li>
+  <li><a href="https://codepen.io/fghty/pen/PojKNEG" target="_blank">Login</a></li>
+  <li><a href="https://divtable.com/table-styler/" target="_blank">Listado</a></li>
+  <li><a href="https://www.vrleti.com/wp-content/uploads/2020/03/RESERVATION-TERMS-AND-CONDITIONS.pdf" target="_blank">Inserción y Modificación</a></li>
 </ul>
