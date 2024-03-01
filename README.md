@@ -65,11 +65,12 @@ If you want to change or delete a customer, a message will pop up and ask you if
 
 <h3>Typography</h3>
 <p>Here is the link where I found the two font types:</p>
+<a href="https://www.dafont.com/alien-ravager.font" target="_blank">Title</a>
+<a href="https://www.dafont.com/robot-9000.font" target="_blank">Main Text</a>
 
 <h2 id="snippets">Templates</h2>
-<p>Here are all the templates I used for all the pages:</p>
+<p>Here are all the templates I used for the pages:</p>
 <ul>
   <li><a href="https://codepen.io/fghty/pen/PojKNEG" target="_blank">Login</a></li>
   <li><a href="https://divtable.com/table-styler/" target="_blank">Listado</a></li>
-  <li><a href="https://www.vrleti.com/wp-content/uploads/2020/03/RESERVATION-TERMS-AND-CONDITIONS.pdf" target="_blank">Inserción y Modificación</a></li>
 </ul>
