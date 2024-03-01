@@ -65,7 +65,7 @@ If you want to change or delete a customer, a message will pop up and ask you if
 
 <h3>Typography</h3>
 <p>Here is the link where I found the two font types:</p>
-<a href="https://www.dafont.com/alien-ravager.font" target="_blank">Title</a>
+<a href="https://www.dafont.com/alien-ravager.font" target="_blank">Title</a><br>
 <a href="https://www.dafont.com/robot-9000.font" target="_blank">Main Text</a>
 
 <h2 id="snippets">Templates</h2>
