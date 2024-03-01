@@ -27,7 +27,7 @@
 </ul>
 
 <h3>Login</h3>
-<img src="./Readme-img/Readme-History.png" alt="Image of the 'History' section" style="width:50%">
+<img src="./Readme-img/Readme-Login.png" alt="Image of the 'Login' page" style="width:50%">
 <p>This login page asks for your name and password as a worker in the restaurant, to see if you can have access.<br>
 There are rules for each input:</p>
 <ul>
@@ -36,12 +36,12 @@ There are rules for each input:</p>
 </ul>
 
 <h3>Listado</h3>
-<img src="./Readme-img/Readme-Bosses.png" alt="Image of the 'Bosses' section" style="width:50%">
+<img src="./Readme-img/Readme-Listado.png" alt="Image of the 'Listado' page" style="width:50%">
 <p>In this page, you can see all the bookings of the restaurant in real time, giving you the choice of adding, changing, or deleting a booking.<br>
 If you want to change or delete a customer, a message will pop up and ask you if you are sure of what you want to do.</p>
 
 <h3>Inserción</h3>
-<img src="./Readme-img/Readme-Mansions.png" alt="Image of the 'Mansions' section" style="width:50%">
+<img src="./Readme-img/Readme-Insercion.png" alt="Image of the 'Inserción' page" style="width:50%">
 <p>This section allows a worker to add a new booking to the list of bookings, and it has the next inputs:</p>
 <ul>
   <li>Name: Just fill with your name.</li>
@@ -55,7 +55,7 @@ If you want to change or delete a customer, a message will pop up and ask you if
 </ul>
 
 <h3>Modificación</h3>
-<img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
+<img src="./Readme-img/Readme-Modificacion.png" alt="Image of the 'Modificación' page" style="width:50%">
 <p>This page is just like the insertion page, but to change the info of a booking.</p>
 
 <h2 id="style">Page Style</h2>
